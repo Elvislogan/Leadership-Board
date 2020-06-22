@@ -1,3 +1,3 @@
 # leadership-board
 
-This consists of the side bar and the top bar
+This consists of the side bar, the top bar and main content
