@@ -70,3 +70,94 @@ hr {
     font-size: 18px;
     line-height: 21px;
 }
+
+
+.table-font{
+    font-size: 16px;
+    padding: 10px !important;
+}
+
+#con-column{
+    position: absolute;
+    width: 1100px;
+    height: 441px;
+    left: 370px;
+    top: 569px;
+    margin-left: 30px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.my-title{
+    
+    width: 96px;
+    height: 21px;
+    left: 1197px;
+    top: 588px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #C2CDDB;
+}
+
+.my-points{
+    width: 32px;
+    height: 21px;
+    left: 1197px;
+    top: 650px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #00AEFF;
+}
+
+.my-details{
+    width: 70px;
+    height: 21px;
+    left: 766px;
+    top: 712px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.interns-leader{
+    width: 328px;
+    height: 42px;
+    left: 372px;
+    top: 474px;
+    padding-top: 100px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #C2CDDB;
+}
+
+.col-bar{
+    background-color: #E5E5E5; 
+}
+  
